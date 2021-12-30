@@ -45,5 +45,6 @@
   "SLASH_COMMAND.BACKUPS.LOAD.DESCRIPTION": "Load a previously created backup.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.BACKUP_NOT_FOUND": "No backup has been found with ID `{id}`",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.INVALID_PASSPHRASE": "The passphrase provided does not match the stored hash.",
-  "_name": "English (United States)"
+  "_name": "English (United States)",
+  "_aa": "aoepae",
 }
