@@ -6,5 +6,5 @@ This repo contains localization, translations, documentation and more.
 Check the Wiki tab.
 
 # What do I get if I translate a whole new language?
-1 Month PRO plan.
-Special Discord Role
+- 1 Month PRO plan.
+- Special Discord Role
