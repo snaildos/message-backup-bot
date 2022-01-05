@@ -22,7 +22,7 @@
   "SLASH_COMMAND.USER.DELETE_USER.ARE_YOU_SURE": "Are you really sure you want to delete all of your current data and exports. THIS ACTION IS UNRECOVERABLE.",
   "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "All of your data has been successfully deleted.",
 
-  "SLASH_COMMAND.USER.LANGUAGE.DESCRIPTION": "Change the language the bot  is supposed to message you with.",
+  "SLASH_COMMAND.USER.LANGUAGE.DESCRIPTION": "Change the language the bot is supposed to message you with.",
   "SLASH_COMMAND.USER.LANGUAGE.ARGUMENTS.LANGUAGE.DESCRIPTION": "The language you would like to switch to.",
 
   "SLASH_COMMAND.USER.REGISTER.DESCRIPTION": "Create a new account and encryption keys.",
