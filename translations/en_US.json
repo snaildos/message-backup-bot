@@ -45,5 +45,6 @@
   "SLASH_COMMAND.BACKUPS.LOAD.DESCRIPTION": "Load a previously created backup.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.BACKUP_NOT_FOUND": "No backup has been found with ID `{id}`",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.INVALID_PASSPHRASE": "The passphrase provided does not match the stored hash.",
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.TEXT_BASED_CHANNEL": "The target channel must be a text based channel.",
   "_name": "English (United States)"
 }
