@@ -1,0 +1,83 @@
+{
+
+  "INTERACTIONS.CONTEXT.DMS_ONLY": "Das kannst du nur in einer Privatnachricht machen.",
+  
+  "INTERACTIONS.CONTEXT.GUILDS_ONLY": "Das kannst du nur auf einem Server machen",
+  
+  "INTERACTIONS.CONTEXT.REGISTERED_USERS_ONLY": "Um das zu tun, musst dich registrieren.",
+  
+  "INTERACTIONS.CONTEXT.UNREGISTERED_USERS_ONLY": "Du hast dich schon registriert.",
+  
+  "INTERACTIONS.GENERIC_OPERATIONS.CANCELED_OPERATION": "Diese Action wurde entweder vom Server oder von dir beendet.",
+  
+  "INTERACTIONS.GENERIC_OPERATIONS.COMMAND_BLOCK": "Du führst gerade schon etwas aus. Warte bis diese abgeschossen ist um etwas Neues auszuführen.",
+  
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.ERROR.TITLE": "Error",
+  
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.INFORMATION.TITLE": "Information",
+  
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.SUCCESS.TITLE": "Erfolgreich!",
+  
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.WARN.TITLE": "Warnung!",
+  
+  "INTERACTIONS.PERMISSIONS.GLOBAL_ADMIN": "Das kannst du nur, wenn du der Besitzer von diesem Bot bist.",
+  
+  "INTERACTIONS.PERMISSIONS.GUILD_ADMINS_ONLY": "Das kannst du nur mit Adminrechten auf diesen Server.",
+  
+  "SLASH_COMMAND.GENERIC.ARGUMENTS.VALUE_REQUIRED": "Ein Argument {name} ist benötigt.",
+  
+  "SLASH_COMMAND.USER.CHANGE_LANGUAGE.ERRORS.SIMILAR_LANGUAGE": "Deine Sprachoption wurde zurückgewechselt.",
+  
+  "SLASH_COMMAND.USER.CHANGE_LANGUAGE.LANGUAGE_CHANGED": "Die Sprache wurde erfolgreich zu Deutsch(German) geändert.",
+  
+  "SLASH_COMMAND.USER.DELETE.DESCRIPTION": "Lösche die aktuellen Daten....",
+  
+  "SLASH_COMMAND.USER.DELETE_USER.ARE_YOU_SURE": "Bist du dir absolut sicher, dass du alle Exports und Daten löschen möchtest?__DU KANNST DEN SCHRITT NICHT RÜCKGÄNGIG MACHEN!!!__",
+  
+  "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "Alle deine Daten wurden erfolgreich gelöscht.",
+  
+  "SLASH_COMMAND.USER.LANGUAGE.DESCRIPTION": "Ändere die Sprache, mit der dich der Bot anschreiben soll.",
+  
+  "SLASH_COMMAND.USER.LANGUAGE.ARGUMENTS.LANGUAGE.DESCRIPTION": "Die Sprache zu der du wechseln möchtest.",
+  
+  "SLASH_COMMAND.USER.REGISTER.DESCRIPTION": "Erstelle einen neuen Account und Verschlüsselungsschlüssel.",
+  
+  "SLASH_COMMAND.USER.REGISTER.ARGUMENTS.LANGUAGE.DESCRIPTION": "Die Sprache in der du dich mit dem Bot kommunizieren möchtest.",
+  
+  "SLASH_COMMAND.USER.REGISTER.AGREEMENT_CONTENT": "Platzhalter Vereinbarung.",
+  
+  "SLASH_COMMAND.USER.REGISTER.CHECK_DMS": "Deine Registrierung war erfolgreich. Gehe in deine Direktnachrichten und finde deinen Authentifizierungsschlüssel.",
+  
+  "SLASH_COMMAND.USER.REGISTER.HEADER_MESSAGE": "Bitte lese die Vereinbarung oben vollständig.",
+  
+  "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT": "Deine Authentifizierungsschlüssel ist '{passphrase}'. Bitte verliere ihn nicht wiederholen oder ändern!",
+  
+  "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT.NOTE": "Hinweis: Pin die Nachricht an, um sie demnächst leichter zu finden.",
+  
+  "SLASH_COMMAND.USER.REGISTER.GENERATING_ACCOUNT": "Bitte warte so lange dein Account erstellt wird.",
+  
+  "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.DESCRIPTION": "Die menge an Nachrichten die gespeichert werden.",
+  
+  "SLASH_COMMAND.BACKUPS.CREATE.DESCRIPTION": "Erstelle ein Backup (Sicherungspunkt).",
+  
+  "SLASH_COMMAND.BACKUPS.CREATE.SUCCESS": "Dein Backup wurde erfolgreich erstellt. Gehe in deine Direktnachrichten, um die ID des Backups zu finden.",
+  
+  "SLASH_COMMAND.BACKUPS.CREATE.REPORT": "Dein Backup ID ist: '{id}'.",
+  
+  "SLASH_COMMAND.BACKUPS.CREATE.ALERT": "Bitte verliere diese ID nicht, da du sie nicht wiederholen kannst.",
+  
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.DESCRIPTION": "Die ID des Backups, die du in deinen Direktnachrichten erhalten hast.",
+  
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.DESCRIPTION": "Der Authentifizierungsschlüssel, die du bei der Erstellung deines Accounts erhalten hast.",
+  
+  "SLASH_COMMAND.BACKUPS.LOAD.DESCRIPTION": "Lade ein vorheriges erstelltes Backup.",
+  
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.BACKUP_NOT_FOUND": "Es wurde kein Backup mit der ID '{id}' gefunden.",
+  
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.INVALID_PASSPHRASE": "Der angegebene Authentifizierungsschlüssel stimmt nicht mit dem gespeicherten Hash überein.",
+  
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.TEXT_BASED_CHANNEL": "Der ausgewählte Kanal muss ein Textkanal sein.",
+  
+  "_name": "German(Germany)"
+  
+  }
