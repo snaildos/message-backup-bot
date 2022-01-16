@@ -42,7 +42,9 @@
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.DESCRIPTION": "The channel where to load the content.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.TEXT_BASED_CHANNEL": "The target channel must be a text based channel.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.MODE.DESCRIPTION": "How should the channel metadata stored be treated",
+  "SLASH_COMMAND.BACKUPS.LOAD.STARTED_LOADING": "Starting a new loading session...",
+  "SLASH_COMMAND.BACKUPS.LOAD.PROGRESS": "Loaded {loaded}/{total} ({percent}%) [{graphical}]",
+  "SLASH_COMMAND.BACKUPS.LOAD.FINISHED": "Finished loading {loaded} messages.",
 
-  "SLASH_COMMAND.DROPDOWN.DESCRIPTION": "Sends some dropdown testing",
   "_name": "English (United States)"
 }
