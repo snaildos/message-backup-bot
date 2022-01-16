@@ -16,17 +16,11 @@
 
   "SLASH_COMMAND.GENERIC.ARGUMENTS.VALUE_REQUIRED": "Argument {name} is required.",
 
-  "SLASH_COMMAND.USER.CHANGE_LANGUAGE.ERRORS.SIMILAR_LANGUAGE": "Your language option was unchanged.",
-  "SLASH_COMMAND.USER.CHANGE_LANGUAGE.LANGUAGE_CHANGED": "The language has been successfully changed to English (United States)",
   "SLASH_COMMAND.USER.DELETE.DESCRIPTION": "Delete the current data",
   "SLASH_COMMAND.USER.DELETE_USER.ARE_YOU_SURE": "Are you really sure you want to delete all of your current data and exports. THIS ACTION IS UNRECOVERABLE.",
   "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "All of your data has been successfully deleted.",
 
-  "SLASH_COMMAND.USER.LANGUAGE.DESCRIPTION": "Change the language the bot  is supposed to message you with.",
-  "SLASH_COMMAND.USER.LANGUAGE.ARGUMENTS.LANGUAGE.DESCRIPTION": "The language you would like to switch to.",
-
   "SLASH_COMMAND.USER.REGISTER.DESCRIPTION": "Create a new account and encryption keys.",
-  "SLASH_COMMAND.USER.REGISTER.ARGUMENTS.LANGUAGE.DESCRIPTION": "The language you would like to bot to communicate to you with.",
   "SLASH_COMMAND.USER.REGISTER.AGREEMENT_CONTENT": "Placeholder agreement.",
   "SLASH_COMMAND.USER.REGISTER.CHECK_DMS": "Your registration has been successful. Please check your dms to find your passphrase.",
   "SLASH_COMMAND.USER.REGISTER.HEADER_MESSAGE": "Please read carefully the agreement above.",
@@ -45,6 +39,10 @@
   "SLASH_COMMAND.BACKUPS.LOAD.DESCRIPTION": "Load a previously created backup.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.BACKUP_NOT_FOUND": "No backup has been found with ID `{id}`",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.INVALID_PASSPHRASE": "The passphrase provided does not match the stored hash.",
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.DESCRIPTION": "The channel where to load the content.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.TEXT_BASED_CHANNEL": "The target channel must be a text based channel.",
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.MODE.DESCRIPTION": "How should the channel metadata stored be treated",
+
+  "SLASH_COMMAND.DROPDOWN.DESCRIPTION": "Sends some dropdown testing",
   "_name": "English (United States)"
 }
