@@ -29,10 +29,12 @@
   "SLASH_COMMAND.USER.REGISTER.GENERATING_ACCOUNT": "Please hold on as your account is being created...",
 
   "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.DESCRIPTION": "The amount of messages to store.",
+  "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.MESSAGES_LIMIT": "Cannot store more than {limit} messages.",
   "SLASH_COMMAND.BACKUPS.CREATE.DESCRIPTION": "Create a new backup.",
   "SLASH_COMMAND.BACKUPS.CREATE.SUCCESS": "Your backup has been successfully created. Please check your dms to find the ID of said backup.",
   "SLASH_COMMAND.BACKUPS.CREATE.REPORT": "Your backup ID is `{id}`.",
   "SLASH_COMMAND.BACKUPS.CREATE.ALERT": "Please do not loose this identifier as it unrecoverable if lost.",
+  "SLASH_COMMAND.BACKUPS.CREATE.BACKUPS_LIMIT": "Cannot store more than {limit} backups. (You current have {current})",
 
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.DESCRIPTION": "The ID of the backup that you have received in your dms.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.DESCRIPTION": "The passphrase you have received on your account creation.",
@@ -45,6 +47,5 @@
   "SLASH_COMMAND.BACKUPS.LOAD.STARTED_LOADING": "Starting a new loading session...",
   "SLASH_COMMAND.BACKUPS.LOAD.PROGRESS": "Loaded {loaded}/{total} ({percent}%) [{graphical}]",
   "SLASH_COMMAND.BACKUPS.LOAD.FINISHED": "Finished loading {loaded} messages.",
-
   "_name": "English (United States)"
 }
