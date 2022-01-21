@@ -49,6 +49,7 @@
   "SLASH_COMMAND.BACKUPS.LOAD.FINISHED": "Finished loading {loaded} messages.",
 
   "SLASH_COMMAND.BACKUPS.DELETE.ARGUMENTS.ID.DESCRIPTION": "The ID of the backup that you have received in your dms.",
+  "SLASH_COMMAND.BACKUPS.DELETE.DESCRIPTION": "Delete one of your already created backups.",
   "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "Successfully deleted the selected backup.",
 
   "_name": "English (United States)"
