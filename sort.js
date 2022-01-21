@@ -18,3 +18,4 @@ for (let file of fs.readdirSync(path.join(__dirname, "translations"))) {
 
   fs.writeFileSync(file, JSON.stringify(data, null, 2));
 }
+/**testing signing */
