@@ -47,5 +47,9 @@
   "SLASH_COMMAND.BACKUPS.LOAD.STARTED_LOADING": "Starting a new loading session...",
   "SLASH_COMMAND.BACKUPS.LOAD.PROGRESS": "Loaded {loaded}/{total} ({percent}%) [{graphical}]",
   "SLASH_COMMAND.BACKUPS.LOAD.FINISHED": "Finished loading {loaded} messages.",
+
+  "SLASH_COMMAND.BACKUPS.DELETE.ARGUMENTS.ID.DESCRIPTION": "The ID of the backup that you have received in your dms.",
+  "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "Successfully deleted the selected backup.",
+
   "_name": "English (United States)"
 }
