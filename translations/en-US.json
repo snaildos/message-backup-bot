@@ -19,6 +19,8 @@
   "SLASH_COMMAND.GENERIC.PASSPHRASE.INVALID_PASSPHRASE": "The passphrase provided does not match the stored hash.",
   "SLASH_COMMAND.GENERIC.GENERIC_FAILURE": "An error occurred trying to execute this interaction. This error has been reported and will be fixed soon.",
 
+  "SLASH_COMMAND.USER.DESCRIPTION": "Manage your passphrase and personal data.",
+
   "SLASH_COMMAND.USER.DELETE.DESCRIPTION": "Delete the current data",
   "SLASH_COMMAND.USER.DELETE_USER.ARE_YOU_SURE": "Are you really sure you want to delete all of your current data and exports. THIS ACTION IS UNRECOVERABLE.",
   "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "All of your data has been successfully deleted.",
@@ -30,6 +32,8 @@
   "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT": "Your passphrase is `{passphrase}`. Do not share or loose this key, as it unrecoverable and unchangeable",
   "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT.NOTE": "Note: Please pin this message for easier access in the future.",
   "SLASH_COMMAND.USER.REGISTER.GENERATING_ACCOUNT": "Please hold on as your account is being created...",
+
+  "SLASH_COMMAND.BACKUPS.DESCRIPTION": "Create, delete or load certain backups.",
 
   "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.DESCRIPTION": "The amount of messages to store.",
   "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.MESSAGES_LIMIT": "Cannot store more than {limit} messages.",
