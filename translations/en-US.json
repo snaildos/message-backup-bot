@@ -16,6 +16,7 @@
 
   "SLASH_COMMAND.GENERIC.ARGUMENTS.VALUE_REQUIRED": "Argument {name} is required.",
   "SLASH_COMMAND.GENERIC.BACKUPS.BACKUP_NOT_FOUND": "No backup has been found with ID `{id}`",
+  "SLASH_COMMAND.GENERIC.PASSPHRASE.INVALID_PASSPHRASE": "The passphrase provided does not match the stored hash.",
   "SLASH_COMMAND.GENERIC.GENERIC_FAILURE": "An error occurred trying to execute this interaction. This error has been reported and will be fixed soon.",
 
   "SLASH_COMMAND.USER.DELETE.DESCRIPTION": "Delete the current data",
@@ -41,7 +42,6 @@
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.DESCRIPTION": "The ID of the backup that you have received in your dms.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.DESCRIPTION": "The passphrase you have received on your account creation.",
   "SLASH_COMMAND.BACKUPS.LOAD.DESCRIPTION": "Load a previously created backup.",
-  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.INVALID_PASSPHRASE": "The passphrase provided does not match the stored hash.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.DESCRIPTION": "The channel where to load the content.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.TEXT_BASED_CHANNEL": "The target channel must be a text based channel.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.MODE.DESCRIPTION": "How should the channel metadata stored be treated",
@@ -49,9 +49,9 @@
   "SLASH_COMMAND.BACKUPS.LOAD.PROGRESS": "Loaded {loaded}/{total} ({percent}%) [{graphical}]",
   "SLASH_COMMAND.BACKUPS.LOAD.FINISHED": "Finished loading {loaded} messages.",
 
+  "SLASH_COMMAND.BACKUPS.EXPORTS.EXPORT.DESCRIPTION": "Export a backup into a file that can be imported later on.",
+
   "SLASH_COMMAND.BACKUPS.DELETE.ARGUMENTS.ID.DESCRIPTION": "The ID of the backup that you have received in your dms.",
   "SLASH_COMMAND.BACKUPS.DELETE.DESCRIPTION": "Delete one of your already created backups.",
-  "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "Successfully deleted the selected backup.",
-
-  "_name": "English (United States)"
+  "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "Successfully deleted the selected backup."
 }

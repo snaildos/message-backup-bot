@@ -37,6 +37,5 @@
   "SLASH_COMMAND.BACKUPS.LOAD.DESCRIPTION": "Lade ein vorheriges erstelltes Backup.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.BACKUP_NOT_FOUND": "Es wurde kein Backup mit der ID '{id}' gefunden.",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.INVALID_PASSPHRASE": "Der angegebene Authentifizierungsschlüssel stimmt nicht mit dem gespeicherten Hash überein.",
-  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.TEXT_BASED_CHANNEL": "Der ausgewählte Kanal muss ein Textkanal sein.",
-  "_name": "German(Germany)"
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.TEXT_BASED_CHANNEL": "Der ausgewählte Kanal muss ein Textkanal sein."
 }
