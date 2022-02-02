@@ -57,5 +57,9 @@
 
   "SLASH_COMMAND.BACKUPS.DELETE.ARGUMENTS.ID.DESCRIPTION": "The ID of the backup that you have received in your dms.",
   "SLASH_COMMAND.BACKUPS.DELETE.DESCRIPTION": "Delete one of your already created backups.",
-  "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "Successfully deleted the selected backup."
+  "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "Successfully deleted the selected backup.",
+
+  "BUTTONS.AGREE": "Agree",
+  "BUTTONS.CANCEL": "Cancel operation",
+  "BUTTONS.BACKUPS.CANCEL": "Cancel loading process"
 }
