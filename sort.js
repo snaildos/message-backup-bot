@@ -16,6 +16,5 @@ for (let file of fs.readdirSync(path.join(__dirname, "translations"))) {
     object[key] = data[key];
   }
 
-  fs.writeFileSync(file, JSON.stringify(data, null, 2));
+  fs.writeFileSync(file, JSON.stringify(object, null, 2));
 }
-/**testing signing */
