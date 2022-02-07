@@ -4,8 +4,6 @@
   "INTERACTIONS.CONTEXT.REGISTERED_USERS_ONLY": "Interaction requires you to be a registered user.",
   "INTERACTIONS.CONTEXT.UNREGISTERED_USERS_ONLY": "Interaction requires you to not be a registered user.",
 
-  "INTERACTIONS.GENERIC_OPERATIONS.CANCELED_OPERATION": "This interaction has been canceled either by the user or by the system.",
-  "INTERACTIONS.GENERIC_OPERATIONS.COMMAND_BLOCK": "It seems like you are already running an operation. You cannot run any other operations until you finished your current one.",
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.ERROR.TITLE": "Error",
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.INFORMATION.TITLE": "Information",
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.SUCCESS.TITLE": "Success",
@@ -14,13 +12,15 @@
   "INTERACTIONS.PERMISSIONS.GLOBAL_ADMIN": "Interaction requires you to be a global admin.",
   "INTERACTIONS.PERMISSIONS.GUILD_ADMINS_ONLY": "Interaction requires admin privilege in the current guild.",
 
-  "SLASH_COMMAND.GENERIC.ARGUMENTS.VALUE_REQUIRED": "Argument {name} is required.",
-  "SLASH_COMMAND.GENERIC.BACKUPS.BACKUP_NOT_FOUND": "No backup has been found with ID `{id}`",
-  "SLASH_COMMAND.GENERIC.PASSPHRASE.INVALID_PASSPHRASE": "The passphrase provided does not match the stored hash.",
-  "SLASH_COMMAND.GENERIC.GENERIC_FAILURE": "An error occurred trying to execute this interaction. This error has been reported and will be fixed soon.",
+  "INTERACTIONS.ERRORS.GENERIC.RATELIMIT": "You are ratelimited from using this command. Try again in `{left}`",
+  "INTERACTIONS.ERRORS.GENERIC.FAILURE": "An error occurred trying to execute this interaction. This error has been reported and will be fixed soon.",
+  "SLASH_COMMAND.ERRORS.GENERIC.ARGUMENTS.VALUE_REQUIRED": "Argument {name} is required.",
+  "SLASH_COMMAND.ERRORS.GENERIC.BACKUPS.BACKUP_NOT_FOUND": "No backup has been found with ID `{id}`",
+  "SLASH_COMMAND.ERRORS.GENERIC.PASSPHRASE.INVALID_PASSPHRASE": "The passphrase provided does not match the stored hash.",
+  "SLASH_COMMAND.ERRORS.GENERIC.CANCELED_OPERATION": "This interaction has been canceled either by the user or by the system.",
+  "SLASH_COMMAND.ERRORS.GENERIC.COMMAND_BLOCK": "It seems like you are already running an operation. You cannot run any other operations until you finished your current one.",
 
   "SLASH_COMMAND.USER.DESCRIPTION": "Manage your passphrase and personal data.",
-
   "SLASH_COMMAND.USER.DELETE.DESCRIPTION": "Delete the current data",
   "SLASH_COMMAND.USER.DELETE_USER.ARE_YOU_SURE": "Are you really sure you want to delete all of your current data and exports. THIS ACTION IS UNRECOVERABLE.",
   "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "All of your data has been successfully deleted.",
