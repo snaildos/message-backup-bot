@@ -14,6 +14,7 @@
 
   "INTERACTIONS.ERRORS.GENERIC.RATELIMIT": "You are ratelimited from using this command. Try again in `{left}`",
   "INTERACTIONS.ERRORS.GENERIC.FAILURE": "An error occurred trying to execute this interaction. This error has been reported and will be fixed soon.",
+  "INTERACTIONS.ERRORS.GENERIC.SHUTDOWN": "This system is shutting down. You cannot execute any action at the moment.",
   "SLASH_COMMAND.ERRORS.GENERIC.ARGUMENTS.VALUE_REQUIRED": "Argument {name} is required.",
   "SLASH_COMMAND.ERRORS.GENERIC.BACKUPS.BACKUP_NOT_FOUND": "No backup has been found with ID `{id}`",
   "SLASH_COMMAND.ERRORS.GENERIC.PASSPHRASE.INVALID_PASSPHRASE": "The passphrase provided does not match the stored hash.",
@@ -58,6 +59,17 @@
   "SLASH_COMMAND.BACKUPS.DELETE.ARGUMENTS.ID.DESCRIPTION": "The ID of the backup that you have received in your dms.",
   "SLASH_COMMAND.BACKUPS.DELETE.DESCRIPTION": "Delete one of your already created backups.",
   "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "Successfully deleted the selected backup.",
+
+  "SLASH_COMMAND.ADMIN.DESCRIPTION": "A collections of commands to administrative tools",
+  "SLASH_COMMAND.ADMIN.SYSTEM.DESCRIPTION": "A collections of commands to manage the system (redis, mongo, main process).",
+  "SLASH_COMMAND.ADMIN.SYSTEM.SHUTDOWN.DESCRIPTION": "Begins a process that shuts down the entire bot.",
+  "SLASH_COMMAND.ADMIN.REDIS.DESCRIPTION": "Manage the redis instance.",
+  "SLASH_COMMAND.ADMIN.REDIS.DELETE.DESCRIPTION": "Delete an already existent key.",
+  "SLASH_COMMAND.ADMIN.REDIS.DELETE.ARGUMENTS.KEY.DESCRIPTION": "The key to delete.",
+  "SLASH_COMMAND.ADMIN.REDIS.EXPIRE.DESCRIPTION": "Returns when a certain keys expires.",
+  "SLASH_COMMAND.ADMIN.REDIS.EXPIRE.ARGUMENTS.KEY.DESCRIPTION": "They key to determine its expiry",
+  "SLASH_COMMAND.ADMIN.REDIS.GET.DESCRIPTION": "Returns the value of a certain redis key",
+  "SLASH_COMMAND.ADMIN.REDIS.GET.ARGUMENTS.KEY.DESCRIPTION": "The key to determine its value",
 
   "BUTTONS.AGREE": "Agree",
   "BUTTONS.CANCEL": "Cancel operation",
