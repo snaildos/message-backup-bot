@@ -54,8 +54,6 @@
   "SLASH_COMMAND.BACKUPS.LOAD.PROGRESS": "Loaded {loaded}/{total} ({percent}%) [{graphical}]",
   "SLASH_COMMAND.BACKUPS.LOAD.FINISHED": "Finished loading {loaded} messages.",
 
-  "SLASH_COMMAND.BACKUPS.EXPORTS.EXPORT.DESCRIPTION": "Export a backup into a file that can be imported later on.",
-
   "SLASH_COMMAND.BACKUPS.DELETE.ARGUMENTS.ID.DESCRIPTION": "The ID of the backup that you have received in your dms.",
   "SLASH_COMMAND.BACKUPS.DELETE.DESCRIPTION": "Delete one of your already created backups.",
   "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "Successfully deleted the selected backup.",
@@ -70,6 +68,8 @@
   "SLASH_COMMAND.ADMIN.REDIS.EXPIRE.ARGUMENTS.KEY.DESCRIPTION": "They key to determine its expiry",
   "SLASH_COMMAND.ADMIN.REDIS.GET.DESCRIPTION": "Returns the value of a certain redis key",
   "SLASH_COMMAND.ADMIN.REDIS.GET.ARGUMENTS.KEY.DESCRIPTION": "The key to determine its value",
+  "SLASH_COMMAND.ADMIN.COUNT.DESCRIPTION": "Counts the total amounts of guilds the bot is in",
+  "SLASH_COMMAND.ADMIN.COUNT.COUNT_REPORT": "The bot is currently running in `{count}` guilds.",
 
   "BUTTONS.AGREE": "Agree",
   "BUTTONS.CANCEL": "Cancel operation",
