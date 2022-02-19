@@ -13,6 +13,10 @@ for (let file of fs.readdirSync(path.join(__dirname, "translations"))) {
   const object = {};
 
   for (const key of keys) {
+    if (!(key in data))
+      throw new Error(
+        `Locale \`${path.parse(file).name}\` does have key \`${key}\``
+      );
     object[key] = data[key];
   }
 
