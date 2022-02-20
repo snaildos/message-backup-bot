@@ -33,7 +33,7 @@
   "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT": "Your passphrase is `{passphrase}`. Do not share or loose this key, as it unrecoverable and unchangeable",
   "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT.NOTE": "Note: Please pin this message for easier access in the future.",
   "SLASH_COMMAND.USER.REGISTER.GENERATING_ACCOUNT": "Please hold on as your account is being created...",
-  "SLASH_COMMAND.USER.REGISTER.ABORTED_ACTION": "Your private messages seem to be disabled. The created account was just deleted. Please enable your dms try again.",
+  "SLASH_COMMAND.USER.REGISTER.ABORTED_ACTION": "Your private messages seem to be disabled. The created account was just deleted. Please enable your dms and try again.",
 
   "SLASH_COMMAND.BACKUPS.DESCRIPTION": "Create, delete or load certain backups.",
 
