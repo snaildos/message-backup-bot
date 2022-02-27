@@ -27,7 +27,7 @@
   "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "All of your data has been successfully deleted.",
 
   "SLASH_COMMAND.USER.REGISTER.DESCRIPTION": "Create a new account and encryption keys.",
-  "SLASH_COMMAND.USER.REGISTER.AGREEMENT_CONTENT": "Placeholder agreement.",
+  "SLASH_COMMAND.USER.REGISTER.AGREEMENT_CONTENT": "The Message Backup Bot is a complex bot, pressing agree means you accept and understand this agreement could change at any time without prior notice. \n All legal documentation, can and will be found at https://docs.snaildos.com/en/MessageBackupBot \n Any help, can be found at our discord: https://invite.gg/snaildos",
   "SLASH_COMMAND.USER.REGISTER.CHECK_DMS": "Your registration has been successful. Please check your dms to find your passphrase.",
   "SLASH_COMMAND.USER.REGISTER.HEADER_MESSAGE": "Please read carefully the agreement above.",
   "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT": "Your passphrase is `{passphrase}`. Do not share or loose this key, as it unrecoverable and unchangeable",

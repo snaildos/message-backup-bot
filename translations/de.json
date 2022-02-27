@@ -22,7 +22,7 @@
   "SLASH_COMMAND.USER.DELETE_USER.ARE_YOU_SURE": "Bist du dir absolut sicher, dass du alle Exports und Daten löschen möchtest?__DU KANNST DEN SCHRITT NICHT RÜCKGÄNGIG MACHEN!!!__",
   "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "Alle deine Daten wurden erfolgreich gelöscht.",
   "SLASH_COMMAND.USER.REGISTER.DESCRIPTION": "Erstelle einen neuen Account und Verschlüsselungsschlüssel.",
-  "SLASH_COMMAND.USER.REGISTER.AGREEMENT_CONTENT": "Platzhalter Vereinbarung.",
+  "SLASH_COMMAND.USER.REGISTER.AGREEMENT_CONTENT": "The Message Backup Bot is a complex bot, pressing agree means you accept and understand this agreement could change at any time without prior notice. \n All legal documentation, can and will be found at https://docs.snaildos.com/en/MessageBackupBot \n Any help, can be found at our discord: https://invite.gg/snaildos",
   "SLASH_COMMAND.USER.REGISTER.CHECK_DMS": "Deine Registrierung war erfolgreich. Gehe in deine Direktnachrichten und finde deinen Authentifizierungsschlüssel.",
   "SLASH_COMMAND.USER.REGISTER.HEADER_MESSAGE": "Bitte lese die Vereinbarung oben vollständig.",
   "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT": "Deine Authentifizierungsschlüssel ist '{passphrase}'. Bitte verliere ihn nicht wiederholen oder ändern!",
