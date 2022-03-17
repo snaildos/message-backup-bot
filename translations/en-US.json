@@ -38,7 +38,7 @@
   "SLASH_COMMAND.BACKUPS.DESCRIPTION": "Create, delete or load certain backups.",
 
   "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.DESCRIPTION": "The amount of messages to store.",
-  "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.MESSAGES_LIMIT": "Cannot store more than {limit} messages.",
+  "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.MESSAGES_LIMIT": "Cannot store more than {limit} messages. Buy premium to backup more.",
   "SLASH_COMMAND.BACKUPS.CREATE.DESCRIPTION": "Create a new backup.",
   "SLASH_COMMAND.BACKUPS.CREATE.SUCCESS": "Your backup has been successfully created. Please check your dms to find the ID of said backup.",
   "SLASH_COMMAND.BACKUPS.CREATE.REPORT": "Your backup ID is `{id}`.",
