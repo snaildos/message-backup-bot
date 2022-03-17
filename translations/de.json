@@ -1,8 +1,8 @@
 {
-  "INTERACTIONS.CONTEXT.DMS_ONLY": "Das kannst du nur in einer Privatnachricht machen.",
-  "INTERACTIONS.CONTEXT.GUILDS_ONLY": "Das kannst du nur auf einem Server machen",
-  "INTERACTIONS.CONTEXT.REGISTERED_USERS_ONLY": "Um das zu tun, musst dich registrieren.",
-  "INTERACTIONS.CONTEXT.UNREGISTERED_USERS_ONLY": "Du hast dich schon registriert.",
+  "INTERACTIONS.CONTEXT.DMS_ONLY": "Interaction can only be ran in private messages. Please run this command in the bots DMs.",
+  "INTERACTIONS.CONTEXT.GUILDS_ONLY": "Interaction can only be ran in guilds. Run this in a discord server.",
+  "INTERACTIONS.CONTEXT.REGISTERED_USERS_ONLY": "Interaction requires you to be a registered user. Use /user register.",
+  "INTERACTIONS.CONTEXT.UNREGISTERED_USERS_ONLY": "Interaction requires you to not be a registered user. You are already registered.",
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.ERROR.TITLE": "Error",
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.INFORMATION.TITLE": "Information",
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.SUCCESS.TITLE": "Erfolgreich!",
