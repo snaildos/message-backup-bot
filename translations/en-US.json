@@ -72,6 +72,9 @@
   "SLASH_COMMAND.ADMIN.COUNT.DESCRIPTION": "Counts the total amounts of guilds the bot is in",
   "SLASH_COMMAND.ADMIN.COUNT.COUNT_REPORT": "The bot is currently running in `{count}` guilds.",
 
+  "SLASH_COMMAND.SUPPORT.DESCRIPTION": "Displays more information about how to gain help and support for issues related with this bot.",
+  "SLASH_COMMAND.SUPPORT.MESSAGE": "For help and support regarding this bot, please join \"https://invite.gg/snaildos\".",
+
   "BUTTONS.AGREE": "Agree",
   "BUTTONS.CANCEL": "Cancel operation",
   "BUTTONS.BACKUPS.CANCEL": "Cancel loading process",
