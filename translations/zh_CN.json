@@ -1,6 +1,6 @@
 {
-  "INTERACTIONS.CONTEXT.DMS_ONLY": "Interaction can only be ran in private messages. Please run this command in the bots DMs.",
-  "INTERACTIONS.CONTEXT.GUILDS_ONLY": "Interaction can only be ran in guilds. Run this in a discord server.",
+  "INTERACTIONS.CONTEXT.DMS_ONLY": "互动只能在私信中进行。 请在机器人直接消息中运行此命令.",
+  "INTERACTIONS.CONTEXT.GUILDS_ONLY": "互动只能在公会中进行。 在不和谐的服务器上运行它.",
   "INTERACTIONS.CONTEXT.REGISTERED_USERS_ONLY": "Interaction requires you to be a registered user. Use /user register.",
   "INTERACTIONS.CONTEXT.UNREGISTERED_USERS_ONLY": "Interaction requires you to not be a registered user. You are already registered.",
 
