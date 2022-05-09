@@ -3,15 +3,12 @@
   "INTERACTIONS.CONTEXT.GUILDS_ONLY": "互动只能在公会中进行。 在不和谐的服务器上运行它。",
   "INTERACTIONS.CONTEXT.REGISTERED_USERS_ONLY": "交互要求您是注册用户。 采用。/user register。",
   "INTERACTIONS.CONTEXT.UNREGISTERED_USERS_ONLY": "交互要求您不是注册用户。 你已经注册过了。",
-
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.ERROR.TITLE": "错误",
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.INFORMATION.TITLE": "信息",
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.SUCCESS.TITLE": "成功",
   "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.WARN.TITLE": "警告",
-
   "INTERACTIONS.PERMISSIONS.GLOBAL_ADMIN": "交互要求您是全局管理员。",
   "INTERACTIONS.PERMISSIONS.GUILD_ADMINS_ONLY": "交互需要当前公会的管理员权限。",
-
   "INTERACTIONS.ERRORS.GENERIC.RATELIMIT": "您无法使用此命令。 再试一次 `{left}`。",
   "INTERACTIONS.ERRORS.GENERIC.FAILURE": "尝试执行此交互时发生错误。 已报告此错误并将很快修复。",
   "INTERACTIONS.ERRORS.GENERIC.SHUTDOWN": "该系统正在关闭。 您目前无法执行任何操作。",
@@ -20,12 +17,10 @@
   "SLASH_COMMAND.ERRORS.GENERIC.PASSPHRASE.INVALID_PASSPHRASE": "提供的密码与存储的哈希不匹配。",
   "SLASH_COMMAND.ERRORS.GENERIC.CANCELED_OPERATION": "此交互已被用户或系统取消。",
   "SLASH_COMMAND.ERRORS.GENERIC.COMMAND_BLOCK": "您似乎已经在运行一项操作。 在完成当前操作之前，您无法运行任何其他操作。",
-
   "SLASH_COMMAND.USER.DESCRIPTION": "管理您的密码和个人数据。",
   "SLASH_COMMAND.USER.DELETE.DESCRIPTION": "删除当前数据。",
   "SLASH_COMMAND.USER.DELETE_USER.ARE_YOU_SURE": "您确定要删除所有当前数据和导出。 此操作是不可恢复的。",
   "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "您的所有数据都已成功删除。",
-
   "SLASH_COMMAND.USER.REGISTER.DESCRIPTION": "创建一个新帐户和加密密钥。",
   "SLASH_COMMAND.USER.REGISTER.AGREEMENT_CONTENT": "消息备份机器人是一个复杂的机器人，按下同意意味着您接受并理解本协议可能随时更改，恕不另行通知。 \n 所有法律文件都可以在 https://docs.snaildos.com/en/MessageBackupBot 上找到 \n 任何帮助都可以在我们的 discord 上找到：https://invite.gg/snaildos",
   "SLASH_COMMAND.USER.REGISTER.CHECK_DMS": "您的注册已成功。 请检查您的 dms 以找到您的密码。",
@@ -34,9 +29,7 @@
   "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT.NOTE": "注意：请固定此消息，以便将来访问。",
   "SLASH_COMMAND.USER.REGISTER.GENERATING_ACCOUNT": "正在创建您的帐户，请稍等...",
   "SLASH_COMMAND.USER.REGISTER.ABORTED_ACTION": "您的私人消息似乎已被禁用。 创建的帐户刚刚被删除。 请启用您的 DM，然后重试...",
-
   "SLASH_COMMAND.BACKUPS.DESCRIPTION": "创建、删除或加载某些备份。",
-
   "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.DESCRIPTION": "要存储的消息量。",
   "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.MESSAGES_LIMIT": "不能存储超过 {limit} 条消息。 购买溢价以备份更多。",
   "SLASH_COMMAND.BACKUPS.CREATE.DESCRIPTION": "创建一个新的备份。",
@@ -44,7 +37,6 @@
   "SLASH_COMMAND.BACKUPS.CREATE.REPORT": "您的备用 ID 是 `{id}`。",
   "SLASH_COMMAND.BACKUPS.CREATE.ALERT": "请不要丢失此标识符，因为它一旦丢失就无法恢复。",
   "SLASH_COMMAND.BACKUPS.CREATE.BACKUPS_LIMIT": "不能存储超过 {limit} 个备份。 （您当前拥有 {current}）。",
-
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.DESCRIPTION": "您在 dms 中收到的备份 ID。",
   "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.DESCRIPTION": "您在创建帐户时收到的密码。",
   "SLASH_COMMAND.BACKUPS.LOAD.DESCRIPTION": "加载以前创建的备份。",
@@ -54,11 +46,9 @@
   "SLASH_COMMAND.BACKUPS.LOAD.STARTED_LOADING": "开始新的加载会话...",
   "SLASH_COMMAND.BACKUPS.LOAD.PROGRESS": "已加载 {loaded}/{total} ({percent}%) [{graphical}]",
   "SLASH_COMMAND.BACKUPS.LOAD.FINISHED": "已完成加载 {loaded} 消息。",
-
   "SLASH_COMMAND.BACKUPS.DELETE.ARGUMENTS.ID.DESCRIPTION": "您在 DMs 中收到的备份 ID。",
   "SLASH_COMMAND.BACKUPS.DELETE.DESCRIPTION": "删除您已创建的备份之一。",
   "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "已成功删除所选备份。",
-
   "SLASH_COMMAND.ADMIN.DESCRIPTION": "管理工具的命令集合。",
   "SLASH_COMMAND.ADMIN.SYSTEM.DESCRIPTION": "管理系统的命令集合（redis、mongo、主进程）。",
   "SLASH_COMMAND.ADMIN.SYSTEM.SHUTDOWN.DESCRIPTION": "开始一个关闭整个机器人的进程。",
@@ -71,14 +61,13 @@
   "SLASH_COMMAND.ADMIN.REDIS.GET.ARGUMENTS.KEY.DESCRIPTION": "决定其价值的关键。",
   "SLASH_COMMAND.ADMIN.COUNT.DESCRIPTION": "决定其价值的关键。",
   "SLASH_COMMAND.ADMIN.COUNT.COUNT_REPORT": "该机器人目前在 `{count}` 行会中运行。",
-
   "SLASH_COMMAND.SUPPORT.DESCRIPTION": "显示有关如何获得有关此机器人相关问题的帮助和支持的更多信息。",
   "SLASH_COMMAND.SUPPORT.MESSAGE": "如需有关此机器人的帮助和支持，请加入\"https://invite.gg/snaildos\"。",
-
+  "SLASH_COMMAND.PREMIUM.DESCRIPTION": "Displays more information about  how to obtain the premium version of this bot.",
+  "SLASH_COMMAND.PREMIUM.MESSAGE": "placeholder",
   "BUTTONS.AGREE": "同意",
   "BUTTONS.CANCEL": "取消操作",
   "BUTTONS.BACKUPS.CANCEL": "取消加载过程",
-
   "BUTTONS.REGISTRATION.DELETE_MESSAGE": "删除此消息。",
   "BUTTONS.REGISTRATION.MOBILE_VERSION": "手机版"
 }

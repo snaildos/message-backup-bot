@@ -75,6 +75,9 @@
   "SLASH_COMMAND.SUPPORT.DESCRIPTION": "Displays more information about how to gain help and support for issues related with this bot.",
   "SLASH_COMMAND.SUPPORT.MESSAGE": "For help and support regarding this bot, please join \"https://invite.gg/snaildos\".",
 
+  "SLASH_COMMAND.PREMIUM.DESCRIPTION": "Displays more information about  how to obtain the premium version of this bot.",
+  "SLASH_COMMAND.PREMIUM.MESSAGE": "placeholder",
+
   "BUTTONS.AGREE": "Agree",
   "BUTTONS.CANCEL": "Cancel operation",
   "BUTTONS.BACKUPS.CANCEL": "Cancel loading process",

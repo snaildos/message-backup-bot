@@ -63,6 +63,8 @@
   "SLASH_COMMAND.ADMIN.COUNT.COUNT_REPORT": "Der Bot läuft derzeit in `{count}` Gilden.",
   "SLASH_COMMAND.SUPPORT.DESCRIPTION": "Zeigt weitere Informationen darüber an, wie Sie Hilfe und Unterstützung bei Problemen im Zusammenhang mit diesem Bot erhalten.",
   "SLASH_COMMAND.SUPPORT.MESSAGE": "Für Hilfe und Unterstützung bezüglich dieses Bots treten Sie bitte \"https://invite.gg/snaildos\" bei.",
+  "SLASH_COMMAND.PREMIUM.DESCRIPTION": "Displays more information about  how to obtain the premium version of this bot.",
+  "SLASH_COMMAND.PREMIUM.MESSAGE": "placeholder",
   "BUTTONS.AGREE": "Stimmen zu",
   "BUTTONS.CANCEL": "Vorgang abbrechen",
   "BUTTONS.BACKUPS.CANCEL": "Cancel loading process",
