@@ -1,0 +1,87 @@
+{
+  "INTERACTIONS.CONTEXT.DMS_ONLY": "सहभागिता केवल निजी संदेशों में ही चलाई जा सकती है। कृपया इस आदेश को बॉट डीएम में चलाएँ।",
+  "INTERACTIONS.CONTEXT.GUILDS_ONLY": "इंटरैक्शन केवल गिल्ड में चलाया जा सकता है। इसे एक कलह सर्वर में चलाएँ।",
+  "INTERACTIONS.CONTEXT.REGISTERED_USERS_ONLY": "सहभागिता के लिए आपको एक पंजीकृत उपयोगकर्ता होना आवश्यक है। उपयोग / उपयोगकर्ता रजिस्टर।",
+  "INTERACTIONS.CONTEXT.UNREGISTERED_USERS_ONLY": "सहभागिता के लिए आवश्यक है कि आप एक पंजीकृत उपयोगकर्ता न हों। आप पहले से ही पंजीकृत हैं।",
+
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.ERROR.TITLE": "गलती",
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.INFORMATION.TITLE": "जानकारी",
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.SUCCESS.TITLE": "सफलता",
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.WARN.TITLE": "चेतावनी",
+
+  "INTERACTIONS.PERMISSIONS.GLOBAL_ADMIN": "सहभागिता के लिए आपका वैश्विक व्यवस्थापक होना आवश्यक है।",
+  "INTERACTIONS.PERMISSIONS.GUILD_ADMINS_ONLY": "सहभागिता के लिए वर्तमान गिल्ड में व्यवस्थापकीय विशेषाधिकार की आवश्यकता होती है।",
+
+  "INTERACTIONS.ERRORS.GENERIC.RATELIMIT": "आप इस आदेश का उपयोग करने से सीमित हैं। `{left}` में पुन: प्रयास करें।",
+  "INTERACTIONS.ERRORS.GENERIC.FAILURE": "इस इंटरैक्शन को निष्पादित करने का प्रयास करते समय एक त्रुटि हुई। इस त्रुटि की सूचना दी गई है और इसे जल्द ही ठीक कर दिया जाएगा।",
+  "INTERACTIONS.ERRORS.GENERIC.SHUTDOWN": "यह सिस्टम बंद हो रहा है। आप इस समय कोई क्रिया निष्पादित नहीं कर सकते।",
+  "SLASH_COMMAND.ERRORS.GENERIC.ARGUMENTS.VALUE_REQUIRED": "तर्क {नाम} आवश्यक है।",
+  "SLASH_COMMAND.ERRORS.GENERIC.BACKUPS.BACKUP_NOT_FOUND": "आईडी `{id}` के साथ कोई बैकअप नहीं मिला है।",
+  "SLASH_COMMAND.ERRORS.GENERIC.PASSPHRASE.INVALID_PASSPHRASE": "प्रदान किया गया पासफ़्रेज़ संग्रहीत हैश से मेल नहीं खाता।",
+  "SLASH_COMMAND.ERRORS.GENERIC.CANCELED_OPERATION": "यह इंटरैक्शन या तो उपयोगकर्ता या सिस्टम द्वारा रद्द कर दिया गया है।",
+  "SLASH_COMMAND.ERRORS.GENERIC.COMMAND_BLOCK": "ऐसा लगता है कि आप पहले से ही एक ऑपरेशन चला रहे हैं। जब तक आप अपना वर्तमान ऑपरेशन पूरा नहीं कर लेते, तब तक आप कोई अन्य ऑपरेशन नहीं चला सकते।",
+
+  "SLASH_COMMAND.USER.DESCRIPTION": "अपना पासफ़्रेज़ और व्यक्तिगत डेटा प्रबंधित करें।",
+  "SLASH_COMMAND.USER.DELETE.DESCRIPTION": "वर्तमान डेटा हटाएं।",
+  "SLASH_COMMAND.USER.DELETE_USER.ARE_YOU_SURE": "क्या आप वाकई अपने सभी मौजूदा डेटा और निर्यात को हटाना चाहते हैं। यह क्रिया अप्राप्य है।",
+  "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "आपका सभी डेटा सफलतापूर्वक हटा दिया गया है।",
+
+  "SLASH_COMMAND.USER.REGISTER.DESCRIPTION": "एक नया खाता और एन्क्रिप्शन कुंजियाँ बनाएँ।",
+  "SLASH_COMMAND.USER.REGISTER.AGREEMENT_CONTENT": "संदेश बैक-अप बॉट एक जटिल बॉट है, सहमति का अर्थ है कि आप इस समझौते को स्वीकार करते हैं और समझते हैं, बिना पूर्व सूचना के किसी भी समय बदल सकते हैं।सभी कानूनी अभिलेखन \n सभी विधि दस्तावेज, https://docs.snaildos.com/en/MessageBackupBot \n पर और पाया जाएगा।",
+  "SLASH_COMMAND.USER.REGISTER.CHECK_DMS": "आपका पंजीकरण सफल हो गया है। अपना पासफ़्रेज़ खोजने के लिए कृपया अपने dms की जाँच करें।",
+  "SLASH_COMMAND.USER.REGISTER.HEADER_MESSAGE": "कृपया ऊपर दिए गए समझौते को ध्यान से पढ़ें।",
+  "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT": "आपका पासफ़्रेज़ `{पासफ़्रेज़}` है। इस कुंजी को साझा या ढीला न करें, क्योंकि यह अप्राप्य और अपरिवर्तनीय है।",
+  "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT.NOTE": "नोट: भविष्य में आसान पहुंच के लिए कृपया इस संदेश को पिन करें।",
+  "SLASH_COMMAND.USER.REGISTER.GENERATING_ACCOUNT": "कृपया रुकें क्योंकि आपका खाता बनाया जा रहा है...",
+  "SLASH_COMMAND.USER.REGISTER.ABORTED_ACTION": "आपके निजी संदेश अक्षम प्रतीत होते हैं। बनाया गया खाता अभी हटा दिया गया था। कृपया अपने DM सक्षम करें और पुन: प्रयास करें...",
+
+  "SLASH_COMMAND.BACKUPS.DESCRIPTION": "कुछ बैकअप बनाएं, हटाएं या लोड करें।",
+
+  "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.DESCRIPTION": "स्टोर करने के लिए संदेशों की मात्रा।",
+  "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.MESSAGES_LIMIT": "{limit} से ज्यादा मैसेज स्टोर नहीं कर सकते। अधिक बैकअप के लिए प्रीमियम खरीदें।",
+  "SLASH_COMMAND.BACKUPS.CREATE.DESCRIPTION": "एक नया बैकअप बनाएं।",
+  "SLASH_COMMAND.BACKUPS.CREATE.SUCCESS": "आपका बैकअप सफलतापूर्वक बना लिया गया है। उक्त बैकअप की आईडी खोजने के लिए कृपया अपने डीएमएस की जांच करें।",
+  "SLASH_COMMAND.BACKUPS.CREATE.REPORT": "आपकी बैकअप आईडी `{id}` है।",
+  "SLASH_COMMAND.BACKUPS.CREATE.ALERT": "कृपया इस पहचानकर्ता को न खोएं क्योंकि खो जाने पर इसे पुनर्प्राप्त नहीं किया जा सकता है।",
+  "SLASH_COMMAND.BACKUPS.CREATE.BACKUPS_LIMIT": "{limit} से अधिक बैकअप स्टोर नहीं कर सकते। (आपके पास वर्तमान में {वर्तमान} है)।",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.DESCRIPTION": "बैकअप की आईडी जो आपको अपने dms में प्राप्त हुई है।",
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.DESCRIPTION": "आपके खाता निर्माण पर आपको जो पासफ़्रेज़ प्राप्त हुआ है।",
+  "SLASH_COMMAND.BACKUPS.LOAD.DESCRIPTION": "पहले बनाए गए बैकअप को लोड करें।",
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.DESCRIPTION": "चैनल जहां सामग्री लोड करना है।",
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.TEXT_BASED_CHANNEL": "लक्ष्य चैनल एक पाठ आधारित चैनल होना चाहिए।",
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.MODE.DESCRIPTION": "संग्रहीत चैनल मेटाडेटा के साथ कैसा व्यवहार किया जाना चाहिए",
+  "SLASH_COMMAND.BACKUPS.LOAD.STARTED_LOADING": "एक नया लोडिंग सत्र शुरू हो रहा है...",
+  "SLASH_COMMAND.BACKUPS.LOAD.PROGRESS": "लोड किया गया {लोड}/{कुल} ({प्रतिशत}%) [{ग्राफ़िकल}]",
+  "SLASH_COMMAND.BACKUPS.LOAD.FINISHED": "{loaded} संदेशों को लोड करना समाप्त।",
+
+  "SLASH_COMMAND.BACKUPS.DELETE.ARGUMENTS.ID.DESCRIPTION": "बैकअप की आईडी जो आपको अपने डीएम में मिली है।",
+  "SLASH_COMMAND.BACKUPS.DELETE.DESCRIPTION": "अपने पहले से बनाए गए बैकअप में से एक को हटा दें।",
+  "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "चयनित बैकअप को सफलतापूर्वक हटा दिया गया।",
+
+  "SLASH_COMMAND.ADMIN.DESCRIPTION": "प्रशासनिक उपकरणों के लिए आदेशों का संग्रह।",
+  "SLASH_COMMAND.ADMIN.SYSTEM.DESCRIPTION": "सिस्टम को प्रबंधित करने के लिए कमांड का एक संग्रह (रेडिस, मोंगोडब, मुख्य प्रक्रिया)।",
+  "SLASH_COMMAND.ADMIN.SYSTEM.SHUTDOWN.DESCRIPTION": "एक प्रक्रिया शुरू करता है जो पूरे बॉट को बंद कर देता है।",
+  "SLASH_COMMAND.ADMIN.REDIS.DESCRIPTION": "रेडिस उदाहरण प्रबंधित करें।",
+  "SLASH_COMMAND.ADMIN.REDIS.DELETE.DESCRIPTION": "पहले से मौजूद कुंजी हटाएं।",
+  "SLASH_COMMAND.ADMIN.REDIS.DELETE.ARGUMENTS.KEY.DESCRIPTION": "हटाने की कुंजी।",
+  "SLASH_COMMAND.ADMIN.REDIS.EXPIRE.DESCRIPTION": "एक निश्चित कुंजी समाप्त होने पर वापस आ जाता है।",
+  "SLASH_COMMAND.ADMIN.REDIS.EXPIRE.ARGUMENTS.KEY.DESCRIPTION": "वे इसकी समाप्ति का निर्धारण करने के लिए महत्वपूर्ण हैं।",
+  "SLASH_COMMAND.ADMIN.REDIS.GET.DESCRIPTION": "एक निश्चित रेडिस कुंजी का मान लौटाता है।",
+  "SLASH_COMMAND.ADMIN.REDIS.GET.ARGUMENTS.KEY.DESCRIPTION": "इसका मूल्य निर्धारित करने की कुंजी।",
+  "SLASH_COMMAND.ADMIN.COUNT.DESCRIPTION": "गिनें कि बॉट कितने गिल्ड में है।",
+  "SLASH_COMMAND.ADMIN.COUNT.COUNT_REPORT": "बॉट वर्तमान में `{count}` गिल्ड में चल रहा है।",
+
+  "SLASH_COMMAND.SUPPORT.DESCRIPTION": "इस बॉट से संबंधित मुद्दों के लिए सहायता और समर्थन प्राप्त करने के तरीके के बारे में अधिक जानकारी प्रदर्शित करता है।",
+  "SLASH_COMMAND.SUPPORT.MESSAGE": "इस बॉट के संबंध में सहायता और समर्थन के लिए, कृपया \"https://invite.gg/snaildos\" से जुड़ें।",
+
+  "SLASH_COMMAND.PREMIUM.DESCRIPTION": "इस बॉट का प्रीमियम संस्करण कैसे प्राप्त करें, इसके बारे में अधिक जानकारी प्रदर्शित करता है।",
+  "SLASH_COMMAND.PREMIUM.MESSAGE": "प्लेसहोल्डर",
+
+  "BUTTONS.AGREE": "इस बात से सहमत",
+  "BUTTONS.CANCEL": "प्रक्रिया रद्द करें",
+  "BUTTONS.BACKUPS.CANCEL": "लोडिंग प्रक्रिया रद्द करें",
+
+  "BUTTONS.REGISTRATION.DELETE_MESSAGE": "इस संदेश को हटा दें।",
+  "BUTTONS.REGISTRATION.MOBILE_VERSION": "मोबाइल वर्शन"
+}
