@@ -1,0 +1,145 @@
+{
+
+  "INTERACTIONS.CONTEXT.DMS_ONLY": "Ця взаємодія можлива тільки в особистих повідомленнях. Будь ласка виконайте команду в особистих повідомленнях з ботом.",
+
+  "INTERACTIONS.CONTEXT.GUILDS_ONLY": "Взаємодія можлива тільки у серверах. Будь ласка виконайте команду у сервері Discord.",
+
+  "INTERACTIONS.CONTEXT.REGISTERED_USERS_ONLY": "Взаємодія потребує бути зареєстрованим користувачем. Використайте /user register.",
+
+  "INTERACTIONS.CONTEXT.UNREGISTERED_USERS_ONLY": "Взаємодія потребує не бути зареєстрованим користувачем. Ви вже зареєстровані.",
+
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.ERROR.TITLE": "Помилка",
+
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.INFORMATION.TITLE": "Інформація",
+
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.SUCCESS.TITLE": "Успішно",
+
+  "INTERACTIONS.GENERIC_OPERATIONS.EMBEDS.WARN.TITLE": "Попередження",
+
+  "INTERACTIONS.PERMISSIONS.GLOBAL_ADMIN": "Взаємодія потребує щоби Ви були глобальним адміном.",
+
+  "INTERACTIONS.PERMISSIONS.GUILD_ADMINS_ONLY": "Взаємодія потребує щоби Ви були адміном у цьому сервері.",
+
+  "INTERACTIONS.ERRORS.GENERIC.RATELIMIT": "Ви маєте обмеження щодо використання цієї команди. Спробуйте ще раз через `{left}`.",
+
+  "INTERACTIONS.ERRORS.GENERIC.FAILURE": "Сталася помилка при використанні цієї взаємодії. Про цю помилку вже було повідомлено та вона скоро буде злагоджена.",
+
+  "INTERACTIONS.ERRORS.GENERIC.SHUTDOWN": "Ця система виключається. Ви не можете робити жодних дій на данний момент.",
+
+  "SLASH_COMMAND.ERRORS.GENERIC.ARGUMENTS.VALUE_REQUIRED": "Аргумент {name} обов'язковий.",
+
+  "SLASH_COMMAND.ERRORS.GENERIC.BACKUPS.BACKUP_NOT_FOUND": "Резервну копію з ID `{id}` не знайдено.",
+
+  "SLASH_COMMAND.ERRORS.GENERIC.PASSPHRASE.INVALID_PASSPHRASE": "Надана парольна фраза не відповідає збереженому хешу.",
+
+  "SLASH_COMMAND.ERRORS.GENERIC.CANCELED_OPERATION": "Ця взаємодія була скасована або користувачем, або системою.",
+
+  "SLASH_COMMAND.ERRORS.GENERIC.COMMAND_BLOCK": "Здається, ви вже виконуєте операцію. Ви не можете виконувати жодні інші операції, доки не завершите поточну.",
+
+  "SLASH_COMMAND.USER.DESCRIPTION": "Керуйте своєю парольною фразою та особистими даними.",
+
+  "SLASH_COMMAND.USER.DELETE.DESCRIPTION": "Видалити поточні дані.",
+
+  "SLASH_COMMAND.USER.DELETE_USER.ARE_YOU_SURE": "Ви справді хочете видалити всі свої поточні дані та експорт? ЦЯ ДІЯ НЕПОВОРОТНА.",
+
+  "SLASH_COMMAND.USER.DELETE_USER.SUCCESS": "Усі ваші дані успішно видалено.",
+
+  "SLASH_COMMAND.USER.REGISTER.DESCRIPTION": "Створіть новий обліковий запис і ключі шифрування.",
+
+  "SLASH_COMMAND.USER.REGISTER.AGREEMENT_CONTENT": "Бот для резервного копіювання повідомлень — це складний бот, натискання «Погодитися» означає, що ви приймаєте та розумієте, що ця угода може бути змінена в будь-який час без попереднього повідомлення. \n Уся легальна документація є, та буде знайдена на https://docs.snaildos.com/en/MessageBackupBot \n Допомога може бути знайдена на нашому Discord сервері: https://invite.gg/snaildos",
+
+  "SLASH_COMMAND.USER.REGISTER.CHECK_DMS": "Ваша реєстрація пройшла успішно. Будь ласка, перевірте свої особисті повідомлення, щоб знайти свою парольну фразу.",
+
+  "SLASH_COMMAND.USER.REGISTER.HEADER_MESSAGE": "Будь ласка, уважно прочитайте угоду вище.",
+
+  "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT": "Ваша парольна фраза - `{passphrase}`. Не передавайте та не втрачайте цю фразу, оскільки її неможливо відновити та змінити.",
+
+  "SLASH_COMMAND.USER.REGISTER.PASSPHRASE_REPORT.NOTE": "Примітка: Будь ласка, закріпіть це повідомлення для полегшення доступу в майбутньому.",
+
+  "SLASH_COMMAND.USER.REGISTER.GENERATING_ACCOUNT": "Зачекайте, поки ваш обліковий запис створюється...",
+
+  "SLASH_COMMAND.USER.REGISTER.ABORTED_ACTION": "Здається, ваші особисті повідомлення вимкнено. Створений обліковий запис було щойно видалено. Будь ласка, увімкніть свої особисті повідомлення і повторіть спробу...",
+
+  "SLASH_COMMAND.BACKUPS.DESCRIPTION": "Створіть, видаліть або завантажте певні резервні копії.",
+
+  "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.DESCRIPTION": "Кількість повідомлень для зберігання.",
+
+  "SLASH_COMMAND.BACKUPS.CREATE.ARGUMENTS.AMOUNT.MESSAGES_LIMIT": "Не можна зберігати більше ніж {limit} повідомлень. Купіть преміум для зберігання більшої кількості повідомлень.",
+
+  "SLASH_COMMAND.BACKUPS.CREATE.DESCRIPTION": "Створити нову резервну копію.",
+
+  "SLASH_COMMAND.BACKUPS.CREATE.SUCCESS": "Ваша резервна копія успішно створена. Перевірте свої особисті повідомлення, щоб знайти ідентифікатор зазначеної резервної копії.",
+
+  "SLASH_COMMAND.BACKUPS.CREATE.REPORT": "ID цієї резервної копії - `{id}`.",
+
+  "SLASH_COMMAND.BACKUPS.CREATE.ALERT": "Будь ласка, не втрачайте цей ідентифікатор, оскільки його неможливо відновити у разі втрати.",
+
+  "SLASH_COMMAND.BACKUPS.CREATE.BACKUPS_LIMIT": "Не можна зберігати більше ніж {limit} резервних копій. (У вас поточно є {current}).",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.ID.DESCRIPTION": "Ідентифікатор резервної копії, який ви отримали в своїх особистих повідомленнях.",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.PASSPHRASE.DESCRIPTION": "Парольна фраза, яку ви отримали під час створення облікового запису.",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.DESCRIPTION": "Завантажте раніше створену резервну копію.",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.DESCRIPTION": "Канал, куди завантажувати вміст.",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.TARGET.TEXT_BASED_CHANNEL": "Цільовий канал має бути текстовим.",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.ARGUMENTS.MODE.DESCRIPTION": "Як слід обробляти збережені метадані каналу",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.STARTED_LOADING": "Початок нового сеансу завантаження...",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.PROGRESS": "Завантажено {loaded}/{total} ({percent}%) [{graphical}]",
+
+  "SLASH_COMMAND.BACKUPS.LOAD.FINISHED": "Завершено завантаження {loaded} повідомлень.",
+
+  "SLASH_COMMAND.BACKUPS.DELETE.ARGUMENTS.ID.DESCRIPTION": "Ідентифікатор резервної копії, який ви отримали у своїх особистих повідомленнях.",
+
+  "SLASH_COMMAND.BACKUPS.DELETE.DESCRIPTION": "Видаліть одну з уже створених резервних копій.",
+
+  "SLASH_COMMAND.BACKUPS.DELETE.DELETED": "Вибрану резервну копію успішно видалено.",
+
+  "SLASH_COMMAND.ADMIN.DESCRIPTION": "Набір команд для інструментів адміністрування.",
+
+  "SLASH_COMMAND.ADMIN.SYSTEM.DESCRIPTION": "Набір команд для керування системою (redis, mongo, головний процес).",
+
+  "SLASH_COMMAND.ADMIN.SYSTEM.SHUTDOWN.DESCRIPTION": "Починає процес, який вимикає весь бот.",
+
+  "SLASH_COMMAND.ADMIN.REDIS.DESCRIPTION": "Керуйте примірником redis.",
+
+  "SLASH_COMMAND.ADMIN.REDIS.DELETE.DESCRIPTION": "Видалити вже існуючий ключ.",
+
+  "SLASH_COMMAND.ADMIN.REDIS.DELETE.ARGUMENTS.KEY.DESCRIPTION": "Ключ який видалити.",
+
+  "SLASH_COMMAND.ADMIN.REDIS.EXPIRE.DESCRIPTION": "Повертає, коли закінчується термін дії певного ключа.",
+
+  "SLASH_COMMAND.ADMIN.REDIS.EXPIRE.ARGUMENTS.KEY.DESCRIPTION": "Ключ для визначення терміну його дії.",
+
+  "SLASH_COMMAND.ADMIN.REDIS.GET.DESCRIPTION": "Повертає значення певного ключа redis.",
+
+  "SLASH_COMMAND.ADMIN.REDIS.GET.ARGUMENTS.KEY.DESCRIPTION": "Ключ для визначення його значення.",
+
+  "SLASH_COMMAND.ADMIN.COUNT.DESCRIPTION": "Підраховує загальну кількість серверів, у яких знаходиться бот.",
+
+  "SLASH_COMMAND.ADMIN.COUNT.COUNT_REPORT": "Зараз бот працює у `{count}` серверах.",
+
+  "SLASH_COMMAND.SUPPORT.DESCRIPTION": "Відображає більше інформації про те, як отримати допомогу та підтримку щодо проблем, пов’язаних із цим ботом.",
+
+  "SLASH_COMMAND.SUPPORT.MESSAGE": "Для допомоги та підтримки відносно цього боту, будь ласка приєднайтесь до \"https://invite.gg/snaildos\".",
+
+  "SLASH_COMMAND.PREMIUM.DESCRIPTION": "Відображає більше інформації про те, як отримати преміум-версію цього бота.",
+
+  "SLASH_COMMAND.PREMIUM.MESSAGE": "Premium дозволяє резервне копіювання та відновлення 600 повідомлень на 5 слотах. Преміум надзвичайно дешевий, і його можна придбати на нашому патреоні: https://patreon.com/snaildos",
+
+  "BUTTONS.AGREE": "Погоджуюся",
+
+  "BUTTONS.CANCEL": "Відмінити операцію",
+
+  "BUTTONS.BACKUPS.CANCEL": "Відмінити процес загрузки",
+
+  "BUTTONS.REGISTRATION.DELETE_MESSAGE": "Видалити це повідомлення.",
+
+  "BUTTONS.REGISTRATION.MOBILE_VERSION": "Мобільна версія"
+
+}
