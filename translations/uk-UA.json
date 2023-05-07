@@ -132,7 +132,9 @@
 
   "SLASH_COMMAND.PREMIUM.MESSAGE": "Premium дозволяє резервне копіювання та відновлення 600 повідомлень на 5 слотах. Преміум надзвичайно дешевий, і його можна придбати на нашому патреоні: https://patreon.com/snaildos",
 
-  "SLASH_COMMAND.DOCTOR.MESSAGE": "The doctor command allows to check for valid permissions",
+  "SLASH_COMMAND.DOCTOR.MESSAGE": "You have the correct permissions. Message Backup should work correctly.",
+
+  "SLASH_COMMAND.DOCTOR.DESCRIPTION": "The doctor command allows to check for valid permissions",
 
   "BUTTONS.AGREE": "Погоджуюся",
 

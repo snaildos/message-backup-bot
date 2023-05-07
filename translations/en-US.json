@@ -78,7 +78,9 @@
   "SLASH_COMMAND.PREMIUM.DESCRIPTION": "Displays more information about how to obtain the premium version of this bot.",
   "SLASH_COMMAND.PREMIUM.MESSAGE": "Premium allows the backup and restoration of 600 messages on 5 slots. Premium is super cheap and can be bought on our patreon, https://patreon.com/snaildos",
 
-  "SLASH_COMMAND.DOCTOR.MESSAGE": "The doctor command allows to check for valid permissions",
+  "SLASH_COMMAND.DOCTOR.MESSAGE": "You have the correct permissions. Message Backup should work correctly.",
+
+  "SLASH_COMMAND.DOCTOR.DESCRIPTION": "The doctor command allows to check for valid permissions",
 
   "BUTTONS.AGREE": "Agree",
   "BUTTONS.CANCEL": "Cancel operation",
