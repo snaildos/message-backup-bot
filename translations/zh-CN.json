@@ -65,6 +65,7 @@
   "SLASH_COMMAND.SUPPORT.MESSAGE": "如需有关此机器人的帮助和支持，请加入\"https://dsc.gg/snaildos\"。",
   "SLASH_COMMAND.PREMIUM.DESCRIPTION": "Displays more information about how to obtain the premium version of this bot.",
   "SLASH_COMMAND.PREMIUM.MESSAGE": "Premium allows the backup and restoration of 600 messages on 5 slots. Premium is super cheap and can be bought on our patreon, https://patreon.com/snaildos",
+  "SLASH_COMMAND.DOCTOR.MESSAGE": "The doctor command allows to check for valid permissions",
   "BUTTONS.AGREE": "同意",
   "BUTTONS.CANCEL": "取消操作",
   "BUTTONS.BACKUPS.CANCEL": "取消加载过程",

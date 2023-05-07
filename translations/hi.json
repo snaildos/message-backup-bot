@@ -78,6 +78,8 @@
   "SLASH_COMMAND.PREMIUM.DESCRIPTION": "इस बॉट का प्रीमियम संस्करण कैसे प्राप्त करें, इसके बारे में अधिक जानकारी प्रदर्शित करता है।",
   "SLASH_COMMAND.PREMIUM.MESSAGE": "प्रीमियम 5 स्लॉट पर 600 संदेशों के बैकअप और पुनर्स्थापना की अनुमति देता है। प्रीमियम बहुत सस्ता है और इसे हमारे संरक्षक, https://patreon.com/snaildos . पर खरीदा जा सकता है",
 
+  "SLASH_COMMAND.DOCTOR.MESSAGE": "The doctor command allows to check for valid permissions",
+
   "BUTTONS.AGREE": "इस बात से सहमत",
   "BUTTONS.CANCEL": "प्रक्रिया रद्द करें",
   "BUTTONS.BACKUPS.CANCEL": "लोडिंग प्रक्रिया रद्द करें",
